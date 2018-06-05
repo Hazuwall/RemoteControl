@@ -1,0 +1,10 @@
+c:\users\yalut\onedrive\documents\visual studio 2013\Projects\RemoteControl\RemoteControl\bin\Debug\RemoteControl.exe.config
+c:\users\yalut\onedrive\documents\visual studio 2013\Projects\RemoteControl\RemoteControl\bin\Debug\RemoteControl.exe
+c:\users\yalut\onedrive\documents\visual studio 2013\Projects\RemoteControl\RemoteControl\bin\Debug\RemoteControl.pdb
+c:\users\yalut\onedrive\documents\visual studio 2013\Projects\RemoteControl\RemoteControl\obj\Debug\RemoteControl.Properties.Resources.resources
+c:\users\yalut\onedrive\documents\visual studio 2013\Projects\RemoteControl\RemoteControl\obj\Debug\RemoteControl.csproj.GenerateResource.Cache
+c:\users\yalut\onedrive\documents\visual studio 2013\Projects\RemoteControl\RemoteControl\obj\Debug\RemoteControl.exe
+c:\users\yalut\onedrive\documents\visual studio 2013\Projects\RemoteControl\RemoteControl\obj\Debug\RemoteControl.pdb
+c:\users\yalut\onedrive\documents\visual studio 2013\Projects\RemoteControl\RemoteControl\obj\Debug\RemoteControl.MainForm.resources
+C:\Users\yalut\OneDrive\Documents\Visual Studio 2013\Projects\RemoteControl\RemoteControl\obj\Debug\RemoteControl.LocalNetworkForm.resources
+C:\Users\yalut\onedrive\documents\visual studio 2013\Projects\RemoteControl\RemoteControl\obj\Debug\RemoteControl.csprojResolveAssemblyReference.cache
